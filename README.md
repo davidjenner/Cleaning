@@ -4,15 +4,11 @@ description: Common Questions for Cleaners - Answered
 
 # FAQs for Cleaners
 
-(**I apologise in advanced for any of my typos at the moment)**
+(**I apologise in advance for any of my typos at the moment)**
 
 * **Where in the area are cleaners expected to go and do cleaning jobs?**
 
 In the Bournemouth, Poole and Christchurch areas, if the clients and customers are happy perhaps some areas such as Wimborne or Ferndown as well.
-
-* **When does the business operate and when to expect an email response?**
-
-Generally between 9 a.m. and 5:30 p.m. is the best time to send us an email and we will aim to get back to you within 48 working hours. Unfortunately, at the moment we have limited capacity to respond to most emails quickly and frequently; unless it's urgent or serious, in which case, please let us know it's urgent and we'll try to get back to you within 24 working hours.
 
 * **The website is down, are you still operating?**
 
@@ -21,14 +17,6 @@ If it says 'There's been a critical error' or 'Connection is not private' this i
 {% embed url="https://www.pushbullet.com/channel?tag=BournemouthCleanDown" %}
 See if Bournemouth Clean is Down via live notifications
 {% endembed %}
-
-* **Why are my emails my emails to the info email address bouncing back?**
-
-We used to have a public-facing info email address and have since moved to a customer support system that replies back from a customer management system instead. If you have any questions please submit a new email from the '[Contact Us](https://bournemouthclean.co.uk/contact/)' page.
-
-* **When is the best time to contact you and expect a response?**
-
-The best times are during the day Monday to Friday between 9 and 5 pm, please allow up to 48 working hours for a response if it's not urgent. If it is urgent, please add 'URGENT' to the email and I will do my level best to get back to you at my earliest convenience.&#x20;
 
 * **I see that the website is still fairly new, do you expect I will get cleaning jobs, and how often?**
 
